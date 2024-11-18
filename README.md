@@ -5,7 +5,7 @@ Hola, soy Luis Pérez, estudiante de Ingeniería Mecatrónica en la Facultad de 
 ## Acerca de mí:
 - 📌 Miembro reciente de SIAFI. 
 - 💥 Me gustan mucho los videojuegos, la música casi de todo tipo y algún día me gustaría ser productor de música
-- 🗣️ Actualmente sigo estudiando inglés y estoy aprendiendo francés
+- 🗣️ Actualmente sigo perfeccionando el idioma inglés y estoy aprendiendo francés
 
 ## Tecnologías con las que trabajo. 
 - **Lenguajes:** Python, C/C++, Java. 
