@@ -38,7 +38,7 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 
 ---
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -67,7 +67,7 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
   </a>
 </p>
 
-## 🚀 Technologies in Progress:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Technologies in Progress <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 - **SwiftUI** 
 - **React.js**
@@ -82,11 +82,11 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luuissc&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+      <img alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luuuisc&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
     </a>
   <br/>
   &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuissc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luuissc" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuuisc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luuissc" height="192px"/>
   <br/>
   </p>
 </details>
@@ -95,12 +95,12 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/luuissc">
-     <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luuissc&theme=react-dark" />
+     <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luuuisc&theme=react-dark" />
    </a>
   <br/>
 </details>
-
 <br/>
+
 ---
 
 ### 🏆 GitHub Trophies
