@@ -105,6 +105,10 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 
 ### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luuuisc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
 🚧 *Still working to earn them!* 🚧
 
 ---
