@@ -77,28 +77,33 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luuuisc&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-    </a>
-  <br/>
-  &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuuisc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luuissc" height="192px"/>
-  <br/>
-  </p>
-</details>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/luuissc">
-     <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luuuisc&theme=react-dark" />
-   </a>
-  <br/>
-</details>
+### GitHub Profile Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luuuisc&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### Practice and practice...
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuuisc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luuissc" height="192px"/>
+
+</td>
+</tr>
+</table>
+
+## ⚡ Recent GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/luuissc">
+    <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luuuisc&theme=react-dark" />
+  </a>
+</p>
+
 <br/>
 
 ---
@@ -111,12 +116,6 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 
 ---
 
-### 🐍 Snake Eating My Contributions 🐍
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 <table>
 <tr>
 <td align="center" width="50%">
@@ -139,6 +138,14 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 </tr>
 </table>
 
+
+---
+
+### 🐍 Snake Eating My Contributions 🐍
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ---
 
 <p align="center">
@@ -146,3 +153,5 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love"> &nbsp; | &nbsp;
 <img src="https://img.shields.io/badge/Learning-AI-blue?style=for-the-badge" alt="Learning AI">
 </p>
+
+
