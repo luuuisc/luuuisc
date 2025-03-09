@@ -154,4 +154,8 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 <img src="https://img.shields.io/badge/Learning-AI-blue?style=for-the-badge" alt="Learning AI">
 </p>
 
+<p align = "center">
+	<img alt="Visitor Count" src="https://profile-counter.glitch.me/{luuuisc}/count.svg">
+</p> 
+
 
