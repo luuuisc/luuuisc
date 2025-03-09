@@ -147,15 +147,15 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 </p>
 
 ---
-
+<p align = "center">
+	<img alt="Visitor Count" src="https://profile-counter.glitch.me/{luuuisc}/count.svg">
+</p> 
 <p align="center">
 📌 <strong>Last Edited on:</strong> <em>08/03/2025</em> &nbsp; | &nbsp;
 <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love"> &nbsp; | &nbsp;
 <img src="https://img.shields.io/badge/Learning-AI-blue?style=for-the-badge" alt="Learning AI">
 </p>
 
-<p align = "center">
-	<img alt="Visitor Count" src="https://profile-counter.glitch.me/{luuuisc}/count.svg">
-</p> 
+
 
 
