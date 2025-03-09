@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Luis Pérez</h1>
-<h3 align="center">Mechatronics Engineering Student | AI & Programming Enthusiast | Language Learning Advocate</h3>
+<h3 align="center">Mechatronics Engineering Student | AI & Programming Enthusiast | Language Learning Lover</h3>
 
 <p align="center">
 <a href="https://www.instagram.com/luuissc_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -75,13 +75,32 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 
 ---
 
-## 📈 GitHub Stats
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luuissc&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luuissc&show_icons=true&locale=en" alt="GitHub Stats" width="410" />
-</p>
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luuissc&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+    </a>
+  <br/>
+  &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luuissc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luuissc" height="192px"/>
+  <br/>
+  </p>
+</details>
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/luuissc">
+     <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luuissc&theme=react-dark" />
+   </a>
+  <br/>
+</details>
+
+<br/>
 ---
 
 ### 🏆 GitHub Trophies
