@@ -24,7 +24,7 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Facu
 </td>
 <td>
 
-<img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="300px" />
+<img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="260px" width="330px" />
 
 </td>
 </tr>
