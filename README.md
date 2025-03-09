@@ -11,12 +11,28 @@
 
 ---
 
-## 👾 Welcome to my GitHub Profile 👾
+<div align="center">
+  <h1>👾 Welcome to my GitHub Profile 👾</h1>
+</div>
 
-Hello! I'm Luis Pérez, a **Mechatronics Engineering** student at the **Faculty of Engineering, UNAM**. I'm currently working on a **language learning chatbot** project, which has been an exciting way for me to dive into programming and artificial intelligence. 🚀
+<table>
+<tr>
+<td>
 
-### 📌 About Me:
-- 🏫 **Recent member of SIAFI** (Student Society for Artificial Intelligence and Engineering).
+Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at the **Faculty of Engineering, UNAM**. I'm currently working on a **language learning chatbot** project, which has been an exciting way for me to dive into programming and artificial intelligence. 🚀
+
+</td>
+<td>
+
+<img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="250px" width="1500px" />
+
+</td>
+</tr>
+</table>
+
+## 📌 About Me:
+
+- 🏫 **Recent member of SIAFI** (Student Society for Artificial Intelligence and Engineering) at ***UNAM***
 - 🎮 Passionate about **video games**, **music** (almost all genres), and **one day I’d love to be a music producer**.
 - 🗣️ Currently improving **English** and learning **French**.
 
@@ -69,20 +85,8 @@ Hello! I'm Luis Pérez, a **Mechatronics Engineering** student at the **Faculty 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luuissc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
 
----
-
-### 🦜 Parrots for Fun 🦜
-<p align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-</p>
+🚧 *Still working to earn them!* 🚧
 
 ---
 
@@ -92,5 +96,32 @@ Hello! I'm Luis Pérez, a **Mechatronics Engineering** student at the **Faculty 
 </p>
 
 ---
+<table>
+<tr>
+<td align="center" width="50%">
 
-📌 **Last Edited on:** *08/03/2025*
+### 💀 When You Fix a Bug but Another One Appears
+<p align="center">
+    <img src="https://media.giphy.com/media/Ll2fajzk9DgaY/giphy.gif" width="300"/>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Motivational Quote
+<blockquote>
+"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."  
+— <strong>Albert Schweitzer</strong>
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+📌 <strong>Last Edited on:</strong> <em>08/03/2025</em> &nbsp; | &nbsp;
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge" alt="Made with Love"> &nbsp; | &nbsp;
+<img src="https://img.shields.io/badge/Learning-AI-blue?style=for-the-badge" alt="Learning AI">
+</p>
