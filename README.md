@@ -31,7 +31,7 @@ Currently, I'm developing educational technology projects that combine **AI, mac
 </td>
 <td>
 
-<img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height="260px" width="330px" />
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" height="260px" width="330px" />
 
 </td>
 </tr>
