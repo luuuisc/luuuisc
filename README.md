@@ -212,6 +212,7 @@ Real-time marketplace connecting wholesale distributors with restaurants to redu
 ---
 
 ### 🐍 Snake Eating My Contributions 🐍
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/luuuisc/luuuisc/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
