@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Luis Pérez</h1>
-<h3 align="center">Mechatronics Engineering Student | AI & Programming Enthusiast | Language Learning Lover</h3>
+<h3 align="center">Mechatronics Engineering | Software & AI | Recently joined Mabe</h3>
 
 <p align="center">
 <a href="https://www.instagram.com/luuissc_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -19,14 +19,12 @@
 <tr>
 <td>
 
-Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's Faculty of Engineering**. I'm an impact-driven AI and software generalist passionate about building reliable, human-centered solutions for education and society. 
+Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's Faculty of Engineering**. I build software and AI products, with a focus on turning ideas into useful digital experiences. I recently joined **Mabe** and am currently working on **Dulio** and **QuantixCode**. 🚀
 
-Currently, I'm developing educational technology projects that combine **AI, machine learning, and conversational interfaces** to democratize access to quality learning experiences. I thrive in high-caliber teams where I can contribute across product, engineering, and operations. 🚀
-
-🔭 **Currently working on:**
-- Educational chatbots for language learning and exam preparation
-- AI-powered platforms accessible through WhatsApp
-- Full-stack web applications with modern tech stacks
+🔭 **Current focus:**
+- **Dulio** — a WhatsApp-first AI sales operator that responds to inquiries, qualifies opportunities, and organizes follow-up while keeping people in control. ([dulio.io](https://dulio.io/))
+- **QuantixCode** — AI workers, automation workflows, and AI-native platforms ([quantixcode.com](https://quantixcode.com/))
+- Growing as an engineer at **Mabe**
 
 </td>
 <td>
@@ -41,7 +39,8 @@ Currently, I'm developing educational technology projects that combine **AI, mac
 
 ## 📌 About Me
 
-- 🎓 **Final-year Mechatronics Engineering student** at ***UNAM*** (Faculty of Engineering)
+- 🎓 **Mechatronics Engineering student** at ***UNAM*** (Faculty of Engineering)
+- 💼 Recently joined **Mabe**
 - 🤖 **Member of SIAFI, currently co-leader of the Projects Core** (Artificial Intelligence Student Society) at UNAM
 - 🌱 Proficient in **TypeScript**, **React**, **Next.js**, and **Node.js**
 - 🧠 Strong interest in **AI/ML**, **LLMs**, **advertising engineering**, and **educational technology**
@@ -70,26 +69,6 @@ Currently, I'm developing educational technology projects that combine **AI, mac
 </td>
 </tr>
 </table>
-
-## ⚡ Recent GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/luuissc">
-    <img alt="Luis's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luuuisc&theme=react-dark" />
-  </a>
-</p>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luuuisc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
 
 ## <p align="center"> Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></p>
 
@@ -147,43 +126,25 @@ Currently, I'm developing educational technology projects that combine **AI, mac
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Current Projects
 
-### 🎯 **LEX IT** - AI Language Learning Platform
-Transforming language education through accessible, interactive technology. A WhatsApp-based chatbot delivering daily micro-lessons, instant feedback, gamified challenges, and personalized progress tracking.
+### **Dulio**
+A WhatsApp-first AI sales operator that helps businesses respond to inquiries, qualify opportunities, and prepare follow-ups while keeping important decisions with the team.
 
-**Tech Stack:** Python, Django, Twilio WhatsApp API, MySQL, AWS (S3, Polly), FastAPI
+[🔗 Visit dulio.io](https://dulio.io/)
 
-**Key Features:**
-- Adaptive conversational flows aligned with CEFR levels
-- Pronunciation scoring and real-time corrections
-- Web dashboard for progress tracking and gamification
-- ~70% reduction in administrative workload through automation
+### **QuantixCode**
+Building AI workers, automation workflows, and AI-native platforms for modern business operations.
 
----
-
-### 📚 **Examen EX** - University Exam Prep Platform
-Revolutionizing university admissions preparation by combining expert human knowledge with AI power. Making world-class preparation accessible through WhatsApp.
-
-**Tech Stack:** GPT-4, WhatsApp API, Python, SQL, TypeScript, Next.js, Postgres, FastAPI, Alembic, Redis
-
-**Mission:**
-- Democratize access to university preparation regardless of location or resources
-- Expert-designed question database with AI-powered personalized delivery
-- Innovation + accessibility + excellence + measurable impact
-
-[🔗 Live Demo](https://examenex.com/)
+[🔗 Visit quantixcode.com](https://quantixcode.com/)
 
 ---
 
-### 🍃 **Cero Merma** - Food Waste Reduction Platform
-Real-time marketplace connecting wholesale distributors with restaurants to reduce food waste by facilitating the sale of excess inventory before it loses commercial value.
+## 📂 Previous Projects
 
-**Tech Stack:** TypeScript, React, Node.js, MongoDB, JavaScript, HTML5, CSS3
-
-**Impact:** Helping businesses reduce waste and improve sustainability
-
-[🔗 Live Demo](https://cero-merma.com/)
+- **Examen EX** — AI-supported university exam preparation. [Live demo](https://examenex.com/)
+- **Cero Merma** — Marketplace for surplus food inventory. [Live demo](https://cero-merma.com/)
+- **LEX IT** — WhatsApp-based language learning platform.
 
 ---
 
