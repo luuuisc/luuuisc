@@ -6,7 +6,7 @@
 <h3 align="center">AI Engineering | Building agent systems at Mabe | Learning through hands-on work</h3>
 
 <p align="center">
-<a href="https://www.instagram.com/luuissc_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/luivi_lab/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-luivi__lab-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: luivi_lab"/></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's F
 - 🧠 Strong interest in **AI/ML**, **LLMs**, **advertising engineering**, and **educational technology**
 - 🗣️ Languages: **Spanish** (native), **English** (B2), **French** (A2)
 - 🎮 Passionate about **video games**, **music production** (all genres), and continuous learning
-- 📧 Contact me at: [luisangelperezcastro1305@gmail.com](mailto:luisangelperezcastro1305@gmail.com)
+- 📧 Contact me at: [hello@lperezcastro.com](mailto:hello@lperezcastro.com)
 
 ---
 
@@ -74,14 +74,6 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's F
 
 <p align="center">
   <img src="https://contribkit.app/user/luuuisc.svg?palette=tokyonight&amp;shape=rounded&amp;background=%230d1117" alt="Contribution activity in the past year" width="100%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./assets/trophies.svg" alt="GitHub achievements: Pair Extraordinaire and Pull Shark" width="100%" />
 </p>
 
 ---
@@ -203,7 +195,7 @@ Building AI workers, automation workflows, and AI-native platforms for modern bu
   <a href="https://github.com/luuuisc">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:luisangelperezcastro1305@gmail.com">
+  <a href="mailto:hello@lperezcastro.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
