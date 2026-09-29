@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Luis Pérez</h1>
-<h3 align="center">Mechatronics Engineering | Software & AI | Recently joined Mabe</h3>
+<h3 align="center">AI Engineering | Building agent systems at Mabe | Learning through hands-on work</h3>
 
 <p align="center">
 <a href="https://www.instagram.com/luuissc_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -19,12 +19,12 @@
 <tr>
 <td>
 
-Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's Faculty of Engineering**. I build software and AI products, with a focus on turning ideas into useful digital experiences. I recently joined **Mabe** and am currently working on **Dulio** and **QuantixCode**. 🚀
+Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's Faculty of Engineering**. At **Mabe**, I'm developing an agent-based project while deepening my AI engineering skills through specialization courses. I learn by turning new ideas into working systems, and I'm also building **Dulio** and **QuantixCode**. 🚀
 
 🔭 **Current focus:**
+- Building an agent-based project at **Mabe** and specializing in AI engineering through focused coursework
 - **Dulio** — a WhatsApp-first AI sales operator that responds to inquiries, qualifies opportunities, and organizes follow-up while keeping people in control. ([dulio.io](https://dulio.io/))
 - **QuantixCode** — AI workers, automation workflows, and AI-native platforms ([quantixcode.com](https://quantixcode.com/))
-- Growing as an engineer at **Mabe**
 
 </td>
 <td>
@@ -40,7 +40,7 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's F
 ## 📌 About Me
 
 - 🎓 **Mechatronics Engineering student** at ***UNAM*** (Faculty of Engineering)
-- 💼 Recently joined **Mabe**
+- 🤖 Building an agent-based project at **Mabe** and specializing in AI engineering through focused coursework
 - 🤖 **Member of SIAFI, currently co-leader of the Projects Core** (Artificial Intelligence Student Society) at UNAM
 - 🌱 Proficient in **TypeScript**, **React**, **Next.js**, and **Node.js**
 - 🧠 Strong interest in **AI/ML**, **LLMs**, **advertising engineering**, and **educational technology**
@@ -69,6 +69,22 @@ Hello! I'm **Luis Pérez**, a **Mechatronics Engineering** student at **UNAM's F
 </td>
 </tr>
 </table>
+
+## ⚡ Recent GitHub Activity
+
+<p align="center">
+  <img src="https://contribkit.app/user/luuuisc.svg?palette=tokyonight&amp;shape=rounded&amp;background=%230d1117" alt="Contribution activity in the past year" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="./assets/trophies.svg" alt="GitHub achievements: Pair Extraordinaire and Pull Shark" width="100%" />
+</p>
+
+---
 
 ## <p align="center"> Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></p>
 
